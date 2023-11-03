@@ -1548,7 +1548,7 @@ As you can see above, now the lists are formatted properly, but there is a warni
 
 Now, you have a very good understanding of how to create JSX elements and also how to inject data to JSX. In the next section, we will talk about how to use create-react-app and components. Components are more powerful and useful than JSX.
 
-🌕 You are awesome. You have just completed day 2 challenges and you are two steps ahead on your way to greatness. Now do some exercises for your brain and for your muscle.
+🌕 You are awesome. You have just completed day 2 challenges and you are two steps ahead on your way to greatness. Now do some exercises for your brain and your muscles.
 
 ### [Exercises](https://github.com/sathishsk25/30-Days-Of-React/blob/master/Exercise/02_Day_Introduction_to_React.md)
 
