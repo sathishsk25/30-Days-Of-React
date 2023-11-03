@@ -61,4 +61,4 @@ console.log(greeting); // Output: Hello, World!
 ```
 
 In this example, we've created a custom module (`myModule.js`) with an exported variable (`greeting`) and imported it into `index.js`.
-```
+
