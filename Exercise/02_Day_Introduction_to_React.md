@@ -1,6 +1,4 @@
-Understood! You can copy the answers and create a Markdown (`.md`) file on GitHub with these responses. Here's the content you can use to create the Markdown file:
 
-```markdown
 # React Exercises
 
 ## What is React?
@@ -177,5 +175,3 @@ const userJSX = (
 );
 ```
 ```
-
-You can copy and paste this content into a Markdown file on GitHub to complete the exercises.
