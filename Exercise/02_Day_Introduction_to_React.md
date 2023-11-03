@@ -173,5 +173,4 @@ const userJSX = (
     <p>Email: {user.email}</p>
   </div>
 );
-```
-```
+
