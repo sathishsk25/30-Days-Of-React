@@ -1550,7 +1550,7 @@ Now, you have a very good understanding of how to create JSX elements and also h
 
 🌕 You are awesome. You have just completed day 2 challenges and you are two steps ahead on your way to greatness. Now do some exercises for your brain and for your muscle.
 
-### Exercises
+### [Exercises](https://github.com/sathishsk25/30-Days-Of-React/blob/master/Exercise/02_Day_Introduction_to_React.md)
 
 #### Exercises: What is React?
 
