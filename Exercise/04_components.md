@@ -1,6 +1,4 @@
-Certainly, here's the content in Markdown format for the Level 1 React component exercises:
 
-```markdown
 # Level 1 React Component Exercises
 
 ### What is the difference between a regular function and an arrow function?
